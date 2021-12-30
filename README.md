@@ -12,4 +12,4 @@ jdk 1.8以上，MySQL5以上
 MySQL@5.7，mysql-connector-java-5.1.7，Java@1.8.0_271
 ## Pictures - 图示
 ![正常选课](https://tva1.sinaimg.cn/large/008i3skNgy1gxw1y5s205j31ba0u0tcc.jpg)
-<img width="1724" alt="iShot2021-12-30 18 23 11" src="https://user-images.githubusercontent.com/48403178/147744428-861d7d2f-19b0-44f9-8b22-057d9dae2bd9.png">课被选完
+![课被选完](https://tva1.sinaimg.cn/large/008i3skNgy1gxw1y7mro7j31ba0u0whz.jpg)
