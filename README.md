@@ -11,5 +11,5 @@ jdk 1.8以上，MySQL5以上
 ## Configuration - 配置
 MySQL@5.7，mysql-connector-java-5.1.7，Java@1.8.0_271
 ## Pictures - 图示
-<img width="1724" alt="iShot2021-12-30 18 22 43" src="https://user-images.githubusercontent.com/48403178/147744418-9bff4493-241d-4e8a-9fc7-f9bfb9e96b58.png">正常选课
+![正常选课](https://tva1.sinaimg.cn/large/008i3skNgy1gxw1y5s205j31ba0u0tcc.jpg)
 <img width="1724" alt="iShot2021-12-30 18 23 11" src="https://user-images.githubusercontent.com/48403178/147744428-861d7d2f-19b0-44f9-8b22-057d9dae2bd9.png">课被选完
